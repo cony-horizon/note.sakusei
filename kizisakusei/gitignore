@@ -1,0 +1,13 @@
+# 絶対に上げない
+.env
+*.env
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
